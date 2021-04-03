@@ -1,0 +1,1 @@
+This is an app with a list of differefent food dishes of different types. Go through the list and start eating.
